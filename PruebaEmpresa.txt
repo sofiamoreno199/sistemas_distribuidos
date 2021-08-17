@@ -1,0 +1,9 @@
+﻿127.0.0.1
+127.0.0.1
+doofenshmirtz
+gerente,posgrado,1,13500000,financiero,1000
+contratista,profesional,2,5000000,comercio,1000
+costurero,secundaria,3,1500000,manufactura,1000
+maestro de obra,primaria,1,860000,manufactura,1000
+consultor,posgrado,5,8000000,financiero,10000
+#fin

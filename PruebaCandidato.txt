@@ -1,0 +1,13 @@
+﻿127.0.0.1
+127.0.0.1
+Juan Sebastián León,1032397479,posgrado,10000000
+gerente, 1,financiero;
+Sebastián Quintero,1032846281,posgrado,10000000
+gerente, 3,financiero;
+Eduardo Kassir,1039102364,posgrado,10000000
+gerente, 5,financiero;
+Angela Rodriguez,52424920,posgrado,10000000
+gerente, 6,financiero;
+Sofia Moreno,198730123,posgrado,10000000
+gerente, 7,financiero;
+#fin
